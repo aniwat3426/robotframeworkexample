@@ -1,0 +1,8 @@
+Assignment #1
+1. Test Case Format
+S.NO	Scenario ID	Scenariod Description	TEST CASE ID	TEST CASE DESCRIPTION	PRECONDITION	TEST STEPS	TEST DATA	EXPECTED RESULT	POSTCONDITION	ACTUAL RESULT	STATUS	DEFECT ID	COMMENTS
+
+2. Test Coverage : Please see the attached Excel file.
+3. Test Case Repository:
+Test cases can change at any time. and need a review And testers can open it independently. It should be stored in a Cloud drive such as Onedrive, Google drive, confluence, IBM Rational Jazz.
+
